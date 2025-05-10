@@ -4,10 +4,10 @@ repo: upptime
 sites:
   - name: main site
     url: https://jupy.wtf
-  - name: Media
-    url: $SECRET_HOME
-    port: 35095
-    check: "tcp-ping"
+  # - name: Media
+  #  url: $SECRET_HOME
+  #  port: 35095
+  #  check: "tcp-ping"
 
 status-website:
   cname: status.jupy.wtf

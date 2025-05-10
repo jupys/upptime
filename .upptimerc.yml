@@ -6,7 +6,7 @@ sites:
     url: https://jupy.wtf
   - name: Media
     url: $SECRET_HOME
-    port: $SECRET_PORT_1
+    port: 35095
     check: "tcp-ping"
 
 status-website:

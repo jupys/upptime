@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 1078,
-    "timeWeek": 1078,
-    "timeMonth": 1078,
-    "timeYear": 1078,
+    "time": 1057,
+    "timeDay": 1057,
+    "timeWeek": 1057,
+    "timeMonth": 1057,
+    "timeYear": 1057,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Media",
-    "url": "$SECRET_HOME",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "media",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-05-10": 31
-    }
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://jupy.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/jupy.wtf.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -16,6 +16,7 @@
     "timeMonth": 1134,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-10-16": 27,
       "2025-10-12": 29,
       "2025-10-08": 122,

@@ -4,16 +4,16 @@
     "url": "https://jupy.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/jupy.wtf.ico",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.23%",
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "87.50%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.20%",
     "time": 1107,
-    "timeDay": 1818,
-    "timeWeek": 1357,
-    "timeMonth": 1058,
+    "timeDay": 1505,
+    "timeWeek": 1304,
+    "timeMonth": 1053,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2025-09-16": 91,
@@ -44,7 +44,8 @@
       "2026-03-31": 55,
       "2026-03-30": 713,
       "2026-05-04": 77,
-      "2026-06-22": 236
+      "2026-06-22": 236,
+      "2026-07-20": 180
     }
   }
 ]

@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jupy.wtf.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "99.26%",
+    "uptime": "99.24%",
+    "uptimeDay": "9.08%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "99.01%",
     "time": 1082,
-    "timeDay": 942,
-    "timeWeek": 840,
-    "timeMonth": 920,
+    "timeDay": 0,
+    "timeWeek": 795,
+    "timeMonth": 921,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2025-11-17": 187,
@@ -39,7 +39,9 @@
       "2026-06-22": 236,
       "2026-07-20": 180,
       "2026-10-22": 70,
-      "2026-10-21": 384
+      "2026-10-21": 384,
+      "2026-11-13": 374,
+      "2026-11-12": 935
     }
   }
 ]
